@@ -1,7 +1,7 @@
 title: HackTool - Rubeus Execution
 id: 7ec2c172-dceb-4c10-92c9-87c1881b7e18
 related:
-    - id: 7ec2c172-dceb-4c10-92c9-87c1881b7e18
+    - id: 3245cd30-e015-40ff-a31d-5cadd5f377ec
       type: similar
 status: stable
 description: Detects the execution of the hacktool Rubeus via PE information of command line parameters
